@@ -15,7 +15,7 @@
         
 ## How does it work?
 You need an Aurduino IDE to run the code, and an account on the MIT APP Inventor website if you want to modify the phone app, in case you don't want to modify it, you can just install the app on your Android phone and the app will work perfectly.
-1. Open the * * * file in the Arduino IDE program on your computer
+1. Open the YummyGoCode.ino file in the Arduino IDE program on your computer
 2. Connect the circuit as in the picture * * *
 3. Connect the ESP32 part to your computer using a micro-USB cable
 4. Run the code and wait for it to complete
