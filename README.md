@@ -1,4 +1,5 @@
 # YummyGo-Restaurant: Smart Restaurant Ordering System
+Embedded systems & IoT Project.
 ## General Idea:
    A smart restaurant based on the IoT that allows the customer to order from the restaurant through the restaurant's application in his mobile phone when a new order arrives for the cashier, the guard rings and the order items appear on the screen, in the meantime the customer waits in the restaurant without the need to stand at the cashier after preparing the order, pressing the cashier on a button, sending a signal to the application telling the customer that his order is ready and he must receive it.
 - All this via Bluetooth connection supported by ESP32.
